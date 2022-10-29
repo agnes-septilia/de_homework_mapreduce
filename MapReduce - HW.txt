@@ -1,0 +1,8 @@
+﻿Download Script Film The Abyss https://www.dailyscript.com/scripts/abyss.html dan ubah menjadi format txt.
+
+
+Step Homework:
+1. Map semua kata (alphanumeric) yang ada di Script tersebut dengan standard uppercase. 
+2. Hitung total dari setiap kata yang muncul di Script tersebut. 
+3. Cari kata yang paling banyak disebutkan di Script tersebut.
+4. buat counter di proses mapper dan reducer.
